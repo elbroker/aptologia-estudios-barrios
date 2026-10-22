@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elbroker.github.io/aptologia-estudios-barrios/sitemap.xml
